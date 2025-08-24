@@ -6,8 +6,8 @@
 
 # RinCraft 八·三事变 情况说明
 
-由  **RinCraft  Operator** 主要编写/修改<br>
-于 **2025 年 8 月 24 日**，第 **2** 版<br>
+由 RinCraft 前 Operator **星澜音stellalyRin** 主要编写, 其他 Operator 修改<br>
+于 **2025 年 8 月 24 日**，第 **2** 版 - **[修改日志](./CHANGELOG.md)**<br>
 **任何人均可以使用该《情况说明》中的任意部分，但不得修改或扭曲**
 
 </div>
@@ -20,7 +20,7 @@
 >
 > 2. 鉴于可能的触发「创伤性应激障碍」的风险，我们不建议 八·三事变 的参与者在近期阅读该《情况说明》。如果你已因 八·三事变 造成心理扭曲或创伤，请立刻关闭网页并寻找专业的心理咨询服务。
 >
-> 我们将会在近期提供该《情况说明》的多语版本和无障碍版本。
+> ~~我们将会在近期提供该《情况说明》的多语版本和无障碍版本。~~ 实则上并无计划.
 >
 
 ## Chapter 0 · 前言
@@ -140,7 +140,11 @@ RinLit 于是在 QQ 群和 Discord 频道内对 wyf9 发表激烈的批评言论
 
 ![RinLit 反对取消封禁 灵魂歌手er](./assets/Chapter_3/Part_2/08_rinlit_disagrees.jpg)
 
-zackzheng1121 于 23:02 正式决定在 RinHub 宣布 RinCraft 独立的消息(**zackzheng:我並沒有宣布，我當下只是問問，後來他們說要討論就沒宣布了**)，但 星澜音 仍然期许问题和平解决，建议独立进程暂缓。unDefFtr 认为今晚应当再和 RinLit 聊聊，如果 RinLit 仍然坚持独裁，则必须独立 RinCraft。
+*zackzheng1121 于 23:02 正式决定在 RinHub 宣布 RinCraft 独立的消息*，但 星澜音 仍然期许问题和平解决，建议独立进程暂缓。unDefFtr 认为今晚应当再和 RinLit 聊聊，如果 RinLit 仍然坚持独裁，则必须独立 RinCraft。
+
+> [!TIP]
+> Zackzheng 事后澄清说并没有宣布 RinCraft 独立, 在当下只是问问, 后来说需要再讨论后就没有宣布了 <br/>
+> *原话: `我並沒有宣布，我當下只是問問，後來他們說要討論就沒宣布了`*
 
 ![关系](./assets/Chapter_3/Part_2/09_relationships.jpg)
 
